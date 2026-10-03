@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of bokt/flarum-horizon.** Not for installation: use [Packagist](https://packagist.org/packages/bokt/flarum-horizon) or the [upstream repository](https://github.com/Bokt/flarum-horizon).
 
-**0** versions archived · Latest: [`0.4.3`](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.4.3) · License: `MIT` · Flarum: `^1.8`
+**18** versions archived · Latest: [`0.4.3`](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.4.3) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1-beta.1` | 2020-05-06 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.1-beta.1) |
+| `0.1-beta.2` | 2021-01-26 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.1-beta.2) |
+| `0.1-beta.3` | 2021-01-27 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.1-beta.3) |
+| `0.2-beta.1` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.2-beta.1) |
+| `0.2-beta.2` | 2021-08-04 | `^1.0.0` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.2-beta.2) |
+| `0.2-beta.3` | 2022-01-19 | `^1.0.0` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.2-beta.3) |
+| `0.2.0` | 2022-03-04 | `^1.2.0` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.2.0) |
+| `0.2.1` | 2022-06-21 | `^1.2.0` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.2.1) |
+| `0.3.0` | 2022-07-15 | `^1.2.0` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.3.0) |
+| `0.3.1` | 2022-07-27 | `^1.2.0` | [Browse](https://github.com/flarchive/bokt-flarum-horizon/tree/archive/v0.3.1) |
+
+[View all 18 versions](https://github.com/flarchive/bokt-flarum-horizon/tags)
 
 Catalog entry: [packages/bokt-flarum-horizon.json](https://github.com/flarchive/archive-index/blob/main/packages/bokt-flarum-horizon.json)
 
